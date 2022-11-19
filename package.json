@@ -1,4 +1,5 @@
 {
+  "start": "node app.js",
   "type": "module",
   "name": "tuiter-node-server-app",
   "version": "1.0.0",
